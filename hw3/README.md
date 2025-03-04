@@ -1,4 +1,4 @@
-# README hw1
+# README hw3
 
 Задача: многоклассовая классификация  
 Колаб:  https://drive.google.com/file/d/1SyRDMmS4klvSgU1TqZ779n2tIZMQx9uP/view?usp=sharing
